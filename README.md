@@ -3,7 +3,7 @@
 ## Overview
 
 This repo is for reproducing the research project of "Understanding The Toronto Shelter System
-Flow Pattern--A Preliminary Analysis." The project is submitted as a course project to University of Toronto. The project analyzes the composition and trend for shelter seekers and disucsses the potential policy implications. 
+Flow Pattern-A Preliminary Analysis." The project is submitted as a course project to University of Toronto. The project analyzes the composition and trend for shelter seekers and disucsses the potential policy implications. 
 
 ## File Structure
 
